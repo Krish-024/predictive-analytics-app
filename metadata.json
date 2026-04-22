@@ -1,0 +1,6 @@
+{
+  "name": "PredictiTrend Analytics",
+  "description": "Powerful predictive modeling platform for trend forecasting, historical data cleaning, and visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Visualization", "Statistical Modeling", "AI Insights"]
+}
